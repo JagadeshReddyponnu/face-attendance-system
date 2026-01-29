@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Face data & database
+data/registered_faces/
+*.npy
+*.db
+
+# VS Code
+.vscode/
